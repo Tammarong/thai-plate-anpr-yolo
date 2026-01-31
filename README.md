@@ -1,17 +1,3 @@
-thai-plate-anpr-yolo/
-├─ Anpr.ipynb
-├─ weights/
-│  ├─ best.pt
-│  └─ yolo11n.pt
-├─ assets/
-│  ├─ test_image.jpg
-│  ├─ test_2.jpg
-│  └─ test_3.jpeg
-├─ outputs/
-│  └─ (prediction results)
-├─ requirements.txt
-├─ .gitignore
-└─ README.md
 
 # ThaiPlate-ANPR-YOLO 🇹🇭🚗
 Automatic Number Plate Recognition (ANPR) system for Thai license plates using YOLO.
